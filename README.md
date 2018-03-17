@@ -15,7 +15,7 @@ $ python Train.py
 $ python Play.py
 ```
 
-### Reference
+## Reference
 
 * [tambetm/simple_dqn](https://github.com/tambetm/simple_dqn.git)
 
