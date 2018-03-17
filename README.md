@@ -19,7 +19,7 @@ $ python Play.py
 
 * [tambetm/simple_dqn](https://github.com/tambetm/simple_dqn.git)
 
-* [devsisters/DQN-tensorflow](https://github.com/tambetm/simple_dqn.git)
+* [devsisters/DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow)
 
 * Human-level control through deep reinforcement learning (2015). Nature
 
