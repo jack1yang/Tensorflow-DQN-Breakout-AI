@@ -1,7 +1,9 @@
 Breakout AI using DQN (Tensorflow)
 =====================
-  
-  It is still incomplete.
+
+```
+It is still incomplete...
+```
 
 ## Run
 
